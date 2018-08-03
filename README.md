@@ -4,5 +4,5 @@
 
 ## Link To My Portfolio (Udacity Project)
 
-To view the porfolio, click [here](https://github.com/Keeth233/MyPortfolio)
+To view the porfolio, click [here](https://keeth233.github.io/MyPortfolio/.)
 
